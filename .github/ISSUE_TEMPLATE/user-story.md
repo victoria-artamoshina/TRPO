@@ -2,7 +2,7 @@
 name: User Story
 about: Describe this issue template's purpose here.
 title: ''
-labels: ТРПО
+labels: User Story
 assignees: victoria-artamoshina
 
 ---
